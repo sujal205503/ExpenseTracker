@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#4CAF50</color>  <!-- Green -->
+    <color name="primaryDarkColor">#388E3C</color>  <!-- Darker Green -->
+    <color name="accentColor">#FFC107</color>  <!-- Yellow -->
+    <color name="backgroundColor">#F5F5F5</color>  <!-- Light Gray -->
+    <color name="textColor">#212121</color>  <!-- Dark Gray -->
+    <color name="buttonColor">#049CF8</color>  <!-- Blue -->
+    <color name="deleteButtonColor">#F44336</color>  <!-- Red -->
+</resources>
